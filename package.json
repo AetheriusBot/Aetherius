@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "Discord-bot",
   "main": "main.js",
+  "engines": {
+    "node": "10.16.3"
+  },
+  "start": "node main.js",
   "repository": "https://github.com/AetheriusBot/Aetherius.git",
   "author": "AKATOSH <legendrestephane06@gmail.com>",
   "license": "MIT",
